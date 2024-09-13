@@ -63,4 +63,4 @@ Contributions are what make the open-source community such an amazing place to l
 
 ### License
 
-This repository is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). For more information, see the [LICENSE](LICENSE) file.
+This repository is licensed under a [MIT](LICENSE).
